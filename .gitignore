@@ -1,0 +1,5 @@
+# Python venv (windows)
+pyvenv.cfg
+Include/
+Lib/
+Scripts/
