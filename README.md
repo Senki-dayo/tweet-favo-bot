@@ -18,4 +18,6 @@ access_secret = your access_secret
 - keyword : search tweet that contain this keyword
 - count : the number of tweet(user) you want to favo(follow)
 - geocode : latitude , longitude , radius  
+
+
 It runs regularly every 20 minutes.
