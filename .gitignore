@@ -3,3 +3,9 @@ pyvenv.cfg
 Include/
 Lib/
 Scripts/
+
+# Private information
+config.ini
+
+# Unnecessary file
+*.json
