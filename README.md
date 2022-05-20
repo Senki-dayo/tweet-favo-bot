@@ -8,8 +8,8 @@ make `config.ini`
 
 ```
 [TwitterAPI]
-consumer_key= tzoCPZukVtiiY1mmGD6sSsjiE
-consumer_secret = 6NyKAjxXXHaDPpOctYeqAr0P1AhfwmZiicsOkUl3C3u2JpeQi0
-access_key= 1403934632945405952-OpqaXbZwLtZuk1YMEZIaJhbHzFB5a6
-access_secret = 3vW2DotYUfyZSE4v8y8rT8wxjMwRywnrLG4PVqOvGkfGW
+consumer_key= your cousumer_key
+consumer_secret = your consumer_secret
+access_key= your access_key
+access_secret = your access_secret
 ```
