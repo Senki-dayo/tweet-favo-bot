@@ -1,6 +1,6 @@
 # tweet-favo-bot
-TwitterAPI enable you to favo tweet and follow user automatically. 
-you can specify keyword , the number of tweet(user) and geocode.
+TwitterAPI enable you to favo tweet and follow user automatically.  
+you can specify keyword , the number of tweet(user) and geocode.  
 
 ## At first
 you need Twitter development account.
