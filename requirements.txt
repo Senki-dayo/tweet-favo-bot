@@ -1,8 +1,13 @@
 certifi==2022.5.18
 charset-normalizer==2.0.12
+configparser==5.2.0
+DateTime==4.4
 idna==3.3
 oauthlib==3.2.0
+pytz==2022.1
 requests==2.27.1
 requests-oauthlib==1.3.1
+schedule==1.1.0
 tweepy==4.9.0
 urllib3==1.26.9
+zope.interface==5.4.0
