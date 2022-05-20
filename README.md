@@ -4,7 +4,7 @@ you can specify keyword , the number of tweet(user) and geocode.
 
 ## At first
 you need Twitter development account.
-make ‵config.ini‵
+make `config.ini`
 
 ```
 [TwitterAPI]
