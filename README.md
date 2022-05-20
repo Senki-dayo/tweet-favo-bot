@@ -13,3 +13,9 @@ consumer_secret = your consumer_secret
 access_key= your access_key
 access_secret = your access_secret
 ```
+
+## User Settings
+- keyword : search tweet that contain this keyword
+- count : the number of tweet(user) you want to favo(follow)
+- geocode : latitude , longitude , radius
+It runs regularly every 20 minutes.
